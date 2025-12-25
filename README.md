@@ -3,10 +3,6 @@
 ## Project Introduction
 This project performs a complete **Exploratory Data Analysis (EDA)** on the **IMDB Top Movies dataset** to uncover meaningful patterns and insights related to movie ratings, votes, genres, and release trends.
 
-The objective is to demonstrate **core data analysis skills** such as data cleaning, preprocessing, visualization, and interpretation using Python and popular data science libraries.
-
-This project is suitable for **academic submission, beginner data analysis practice, and GitHub portfolio showcase**.
-
 ---
 
 ## Project Objectives
