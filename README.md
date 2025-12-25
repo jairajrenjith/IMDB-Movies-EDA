@@ -48,10 +48,10 @@ This project is suitable for **academic submission, beginner data analysis pract
 ## 🗂️ Project Structure
 
 ```
-imdb-eda-project/
+IMDB-Movies-EDA/
 │
 ├── data/
-│ └── imdb_top_1000.csv
+│ └── imdb_movies.csv
 │
 ├── notebooks/
 │ └── imdb_eda.ipynb
