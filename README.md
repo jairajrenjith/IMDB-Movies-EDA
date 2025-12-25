@@ -34,7 +34,7 @@ This project is suitable for **academic submission, beginner data analysis pract
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 - Python 3.11  
 - Pandas  
 - NumPy  
@@ -45,7 +45,7 @@ This project is suitable for **academic submission, beginner data analysis pract
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 IMDB-Movies-EDA/
